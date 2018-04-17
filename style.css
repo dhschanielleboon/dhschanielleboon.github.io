@@ -12,6 +12,6 @@ p{
  font-family: verdana;
 }
 
-body {
-    background-color: linear-gradient(to bottom, #99ccff 0%, #ffcccc 100%);
+div {
+    background: linear-gradient(to bottom, #99ccff 0%, #ffcccc 100%);
 }
