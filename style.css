@@ -1,6 +1,6 @@
  h1{
   font-family: impact;
-  color:pastelpink;
+  color:#ffb3ff;
 }
 
  h2{
@@ -13,5 +13,5 @@ p{
 }
 
 body {
-    background-color: #33ccff;
+    background-color: linear-gradient(to bottom, #99ccff 0%, #ffcccc 100%);
 }
