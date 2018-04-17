@@ -3,15 +3,11 @@
   color:pink;
 }
 
- h2{
-  font-family: georgia;
-  color:blue;
-}
-
 p{
- font-family: verdana;
+ font-family: georgia;
+ colour: lightblue;
 }
 
 div {
-    background: linear-gradient(to bottom, #99ccff 0%, #ffcccc 100%);
+    background-colour:pastelpurple
 }
